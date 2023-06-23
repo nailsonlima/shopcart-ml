@@ -1,5 +1,5 @@
-# 🕗 shopcart using the mercado livre api
-projeto feito com auxilio da api do mercado livre📁<br/>
+# 🛒 shopcart using the mercado livre api
+🛒projeto feito com auxilio da api do mercado livre📁<br/>
 
 <img width='70%' src="./assets/main.png"/>
 <img width='70%' src="./assets/search.png"/>
