@@ -25,7 +25,7 @@ Projeto desenvolvido consumindo a API do **Mercado Livre**, com funcionalidades 
 - 🔍 Busca dinâmica de produtos via API do Mercado Livre.
 - 🛒 Adicionar e remover itens no carrinho.
 - 💰 Cálculo automático de preço total.
-- 💾 Persistência do carrinho no localStorage.
+- 💾 Persistência do carrinho no useContext.
 - 🎯 Formatação de valores (BRL) utilizando arquivo utilitário.
 
 ## 🔥 Como rodar localmente
