@@ -5,7 +5,7 @@ Projeto desenvolvido consumindo a API do **Mercado Livre**, com funcionalidades 
 ## 🚀 Tecnologias utilizadas
 
 - [ReactJS](https://pt-br.reactjs.org/) — Biblioteca para construção de interfaces
-- [Context API](https://reactjs.org/docs/context.html) — Gerenciamento de estado global
+- [Context API](https://reactjs.org/docs/context.html) — Gerenciamento de estado global durante a sessão
 - [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API) — Requisições HTTP nativas
 - **Utils personalizado:** Formatação de valores monetários com `utils/formatCurrency.js`
 
@@ -24,9 +24,9 @@ Projeto desenvolvido consumindo a API do **Mercado Livre**, com funcionalidades 
 
 - 🔍 Busca dinâmica de produtos via API do Mercado Livre.
 - 🛒 Adicionar e remover itens no carrinho.
-- 💰 Cálculo automático de preço total.
-- 💾 Persistência do carrinho no useContext.
-- 🎯 Formatação de valores (BRL) utilizando arquivo utilitário.
+- 💰 Cálculo automático do valor total.
+- 🌐 Estado global de carrinho gerenciado via Context API (válido durante a sessão).
+- 🎯 Formatação de valores (BRL) utilizando utilitário próprio.
 
 ## 🔥 Como rodar localmente
 
@@ -50,8 +50,9 @@ http://localhost:5173/
 Sinta-se à vontade para utilizar, melhorar e contribuir com este projeto. Toda sugestão é bem-vinda! 🚀
 
 👨‍💻 Autor:  
-Feito com dedicação por:
-Nailson Lima 🚀
+Feito com dedicação por Nailson Lima 🚀
 
 🎯 Agradecimento:  
 Obrigado por acessar este projeto! 💜
+Se te ajudou, ⭐️ deixa aquele star no repositório!
+
